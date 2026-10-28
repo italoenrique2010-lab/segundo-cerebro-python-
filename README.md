@@ -55,4 +55,5 @@ Este projeto é uma experiência prática de utilização de inteligência artif
 
 ---
 
-Projeto educacional desenvolvido como parte de uma atividade prática da DIO.
+Projeto educacional desenvolvido como parte de uma atividade prática da DIO
+https://notebook.google.com/notebook/247d4d8f-f292-49b2-a868-4631cb95741e
